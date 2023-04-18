@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+Pearson's product-moment correlation
+
+data:  teacher_student_ratio and birth_rate
+t = 1.2117, df = 23, p-value = 0.2379
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1662643  0.5836029
+sample estimates:
+      cor 
+0.2449595 
