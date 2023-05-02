@@ -1,3 +1,5 @@
+
+
 # 2023 Acorn 1팀 중간프로젝트
 
 ## 주제 : 저출산 지원 정책 수립을 위한 저출산 요인 분석
@@ -30,18 +32,20 @@
 
 
 ## 3) 사용된 분석도구
-- 프로젝트에 사용된 분석도구를 소개합니다.
-    - 크롤링
+  
+	- 크롤링
     - 워드 클라우드
+    - 선거 당선자 공약 텍스트 마이닝
     - Python
     - Jupyter Notebook
     - Pycharm Community Edition
-    - R
     - Matplotlib
     - Pandas
-    - 선거 당선자 공약 텍스트 마이닝
-    - Spider Chart 를 활용하여 여가활동별 분석
-    - 라이브러리
+    
+    
+    
+    - R 라이브러리
+	- Spider Chart 를 활용하여 여가활동별 분석
     - reshape2
     - dplyr
     - tidyverse
@@ -54,14 +58,16 @@
     - moonBook
     - nparcomp
     - pgirmess
-          
     
-    
-    
+
+
+
+
+
+
 
 
 ## 3. 결과
-- 조사 결과를 요약하여 제시합니다.
     - 프로젝트 참고
 
 
@@ -70,8 +76,8 @@
 
 
 ## 4. 결론
-- 보고서의 결론을 요약합니다.
-- 저출산 문제를 해결하기 위한 2가지 대처 방안 등을 제시합니다.
+
+- 저출산 문제를 해결하기 위한 2가지 대처 방안 등을 제시.
     - 홍보대사 선정
     - 출산율 맞춤형 대출상품 제안
 
@@ -113,6 +119,37 @@
         https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J20112&conn_path=I2
 
 
+
+		- URL: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1C86&conn_path=I2
+		  Reference: 통계청,「지역소득」, 2021, 2023.04.26, 시도별 1인당 지역내총생산, 지역총소득, 개인소득
+
+		- URL: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A21&conn_path=I2
+		  Reference: 통계청,「인구동향조사」, 2021, 2023.04.26, 시도/합계출산율, 모의 연령별 출산율
+
+
+
+		- URL: http://data.seoul.go.kr/dataList/OA-15456/S/1/datasetView.do
+		  Reference: 서울특별시, 서울시 보육통계 보육교사 1인당 아동수 현황 정보
+
+		- URL: http://data.seoul.go.kr/dataList/10104/S/2/datasetView.do
+		  Reference: 서울특별시, 서울시 합계출산율 및 모(母)의 연령별 출산율 통계
+
+
+		- URL: https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2
+		  Reference: 한국여성정책연구원, 혼인상태별 인구(성/연령별)
+
+		- URL: https://www.index.go.kr/unify/idx-info.do?idxCd=5061
+		  Reference: 통계청, Statistics Korea.「인구동향조사」
+
+		- URL: https://dic.kumsung.co.kr/web/smart/detail.do?headwordId=2440&pg=20&findCategory=B002002&findBookId=21&findPhoneme=
+		  Reference: 티칭백과, 합계 출산율
+
+
+		- URL: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B83A09&conn_path=I2
+		  Reference: 통계청,「인구동향조사」, 2022, 2023.04.28, 시도/시군구별 평균초혼 연령
+
+		- URL: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A17&conn_path=I2
+		  Reference: 통계청,「인구동향조사」, 2021, 2023.04.28, 시군구/합계출산율, 모의 연령별 출산율
 
 
 
