@@ -527,15 +527,15 @@ _["다섯쌍둥이 저출산고령사회위원회 홍보대사 위촉", news1, h
 >[통계청,「인구동향조사」, 2022, 2023.04.28, 시도/시군구별 평균초혼 연령](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B83A09&conn_path=I2)<br>
 >[통계청,「인구동향조사」, 2021, 2023.04.28, 시군구/합계출산율, 모의 연령별 출산율](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A17&conn_path=I2)<br>
 >[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지난 1년 동안 가장 많이 참여한 여가활동 (1+2+3+4+5순위)_중분류]( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1026897&conn_path=I2)<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 반복적 참여 여가활동 분야 및 활동_문화예술 관람활동]  ( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028387&conn_path=I2  )<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_문화예술 참여활동]  ( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028388&conn_path=I2  )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 반복적 참여 여가활동 분야 및 활동_문화예술 관람활동]( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028387&conn_path=I2  )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_문화예술 참여활동]( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028388&conn_path=I2  )<br>
 >[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_스포츠 관람활동]  (https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028389&conn_path=I2  )<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_스포츠 참여활동]  ( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028392&conn_path=I2 )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_스포츠 참여활동]( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028392&conn_path=I2 )<br>
 >[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_관광 활동]  (https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028393&conn_path=I2  )<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_취미・오락 활동]  ( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028395&conn_path=I2 )<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_사회 및 기타 활동]  (https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028396&conn_path=I2  )<br>
->[문화체육관광부,「예술인실태조사」, 2021, 2023.04.27, 현재 예술분야에서 종사하는 주 활동]  (https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028104&conn_path=I2  )<br>
->[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 여가활동의 주된 목적]  (https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1026924&conn_path=I2  )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_취미・오락 활동]( https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028395&conn_path=I2 )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_사회 및 기타 활동](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028396&conn_path=I2)<br>
+>[문화체육관광부,「예술인실태조사」, 2021, 2023.04.27, 현재 예술분야에서 종사하는 주 활동](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028104&conn_path=I2  )<br>
+>[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 여가활동의 주된 목적](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1026924&conn_path=I2  )<br>
 >[한국여성정책연구원,「혼인상태별 인구(성/연령별)」] (https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2  )   <br>
 >[한국여성정책연구원, 혼인상태별 인구(성/연령별)](https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2)<br>
 >[서울특별시, 서울시 보육통계 보육교사 1인당 아동수 현황 정보](http://data.seoul.go.kr/dataList/OA-15456/S/1/datasetView.do)<br>
