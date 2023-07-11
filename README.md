@@ -111,7 +111,7 @@
 ## 3. Background
 
 #### `출산율 감소 현황 파악`
-![](./Files/Image/background.gif)
+![](./Files/Image/background.gif)<br>
 _["Fertility Rate", Our World in Data, https://ourworldindata.org/fertility-rate](https://ourworldindata.org/fertility-rate)_<br>  
 
 >한국은 OECD 국가 중에서 출산율이 가장 낮은 수준을 보이고 있습니다.<br>
@@ -129,7 +129,7 @@ _["Fertility Rate", Our World in Data, https://ourworldindata.org/fertility-rate
 
 #### `출산하지 않는 이유`
 
-![](./Files/Image/backgroud2.png)
+![](./Files/Image/backgroud2.png)<br>
 _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 심층조사 체계 운영』, 한국보건사회연구원(2019)_<br> 
 
 >한국보건사회연구원이 2019년에 발표한 '저출산·고령사회 대응 국민 인식 및 욕구 심층 조사 체계 운영' 정책 현안 보고서에 따르면,<br>
@@ -146,7 +146,7 @@ _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 
 ---
 
 ## 4. Project Architecture
-![](./Files/Image/Project_Architecture.png)
+![](./Files/Image/Project_Architecture.png)<br>
 
 ---
 
@@ -157,38 +157,39 @@ _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 
 >기술 스택:  
 >Python
 >  
->[1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate) 참고   
->[1.1. Consumer Price Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/1.%20Consumer%20Price%20Analysis) 참고   
->[1.2. Government Policies Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/2.%20Government%20Policies%20Analysis) 참고  
->[1.3. Election Promises Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/3.%20Election%20Promises%20Analysis) 참고   
->[1.4. Leisure Lifestyle Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/4.%20Leisure%20Lifestyle%20Analysis) 참고   
->[1.5. Occupations Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/5.%20Occupations%20Analysis) 참고  
+>[1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate) 참고   
+>[1.1. Consumer Price Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/1.%20Consumer%20Price%20Analysis) 참고   
+>[1.2. Government Policies Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/2.%20Government%20Policies%20Analysis) 참고  
+>[1.3. Election Promises Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/3.%20Election%20Promises%20Analysis) 참고   
+>[1.4. Leisure Lifestyle Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/4.%20Leisure%20Lifestyle%20Analysis) 참고   
+>[1.5. Occupations Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/5.%20Occupations%20Analysis) 참고  
 >   
->[2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage) 참고   
->[2.1. Assets Liabilities Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/1.%20Assets%20Liabilities%20Analysis) 참고   
->[2.2. Married Unmarried Status Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/2.%20Married%20Unmarried%20Status%20Analysis) 참고   
->[2.3. Quarterly Analysis](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/3.%20Quarterly%20Analysis) 참고  
+>[2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage) 참고   
+>[2.1. Assets Liabilities Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/1.%20Assets%20Liabilities%20Analysis) 참고   
+>[2.2. Married Unmarried Status Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/2.%20Married%20Unmarried%20Status%20Analysis) 참고   
+>[2.3. Quarterly Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/3.%20Quarterly%20Analysis) 참고  
 
 ---
 
-### [5.1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate)
+### [5.1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate)
 
 #### `Consumer Price Analysis`
-![](https://github.com/hantaeseong00/Acorn_Final_Proj/blob/main/Source%20Code/1.%20Image%20Classification/Graph/result.png?raw=true)
+![](https://github.com/hantaeseong00/Team1_FirstProject/blob/main/Source%20Code/1.%20Image%20Classification/Graph/result.png?raw=true)<br>
 
 >프로젝트는 합계출산율의 증감과 소비자물가의 증감 간의 상관분석을 진행하였습니다.<br>
 >소비자물가 항목 중 유아용품 및 육아시설에 대한 상관분석을 수행하고, 후진제거법을 통해 Feature를 줄였습니다.<br>
 
-| 항목 | 상품명 | Estimate | Std. Error | t value | Pr(>|t|) | 
-| :-- | :-: | :-: | :-: | :-: | :-: |
+| 항목 | 상품명 | Estimate | Std. Error | t value | Pr(>|t|) |
+| :-- | :-- | :-- | :-- | :-- | :-- |
 | 유아용품 | 분유 | 0.0012776  | 0.0002095  | 6.098 | 1.86e-09 &#42;&#42;&#42; |
 |  | 유아동복 | -0.0039445 | 0.0004253 | -9.274 | < 2e-16 &#42;&#42;&#42; |
 |  | 아동화 | -0.0055641 | 0.0005216 | -10.668 | < 2e-16 &#42;&#42;&#42; |
 |  | 유모차 | 0.0010439 | 0.0002347 | 4.448 | 1.02e-05 &#42;&#42;&#42; |
-|  |  |  |  |  |  |
+| | | | | | |
 | 육아시설 | 유치원납입금 | 5.495e-04 | 6.786e-05 | 8.097 | 2.81e-15 &#42;&#42;&#42; |
-|  | 보육시설이용료 | 2.911e-04 | 8.022e-05 | 3.628 | 0.000308 |
-|  | 산후조리원이용료 | -3.409e-03 | 2.385e-04 | -14.290 | < 2e-16 |
+| | 보육시설이용료 | 2.911e-04 | 8.022e-05 | 3.628 | 0.000308 |
+| | 산후조리원이용료 | -3.409e-03 | 2.385e-04 | -14.290 | < 2e-16 |
+
 >분석 결과를 요약한 결과도표를 통해 다음과 같은 정보를 얻을 수 있었습니다<br>
 >유아용품<br>
 	- 분유, 유아동복, 아동화, 유모차가 출산율과의 상관관계를 가지며, 유아용품 가격 변동은 출산율에 영향을 줄 수 있음을 시사합니다.<br>
@@ -227,7 +228,7 @@ _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 
 
 ---
 
-### [5.2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Acorn_Final_Proj/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage)
+### [5.2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage)
 
 #### `Assets Liabilities Analysis`
 
