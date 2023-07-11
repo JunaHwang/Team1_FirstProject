@@ -21,32 +21,35 @@
 #### `장상윤`
 >이메일: jangapp21@gmail.com<br>
 >깃헙: https://github.com/jangsangyoon13<br>
->프런트엔드<br>
->기능구현<br>
+>데이터 전처리 및 분석<br>
+>프로젝트 구성<br>
 
 #### `정구열`
 >이메일: yeol512@nate.com<br>
 >깃헙: https://github.com/zzang910<br>
->반찬예측알고리즘<br>
->연관분석<br>
+>데이터 전처리 및 분석<br>
+>프로젝트 발표<br>
 
 #### `한태성`
 >이메일: hantaeseong4@naver.com<br>
 >깃헙: https://github.com/hantaeseong00/<br>
->저녁추천알고리즘<br>
->군집분석<br>
+>데이터셋 구축 및 시각화<br>
+>통계 검증<br>
+>크롤링<br>
+>보고서 작성<br>
 
 #### `황준하`
 >이메일: junatrout27@gmail.com<br>
 >깃헙: https://github.com/JunaHwang<br>
 >팀장<br>
->연관분석 및 연관분석 결과 통합<br>
+>데이터 전처리 및 시각화<br>
+>프로젝트 발표 자료 준비<br>
 
 #### `홍재연`
 >이메일: yoandjung1@gmail.com<br>
 >깃헙: https://github.com/jaexxyoyo<br>
->백엔드<br>
->DB설계<br>
+>데이터 수집 및 전처리<br>
+>종속 변수 선정<br>
 
 ---
 
