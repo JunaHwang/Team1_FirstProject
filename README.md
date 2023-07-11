@@ -536,7 +536,7 @@ _["다섯쌍둥이 저출산고령사회위원회 홍보대사 위촉", news1, h
 >[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 지속적으로 참여하는 여가활동 분야 및 활동_사회 및 기타 활동](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028396&conn_path=I2)<br>
 >[문화체육관광부,「예술인실태조사」, 2021, 2023.04.27, 현재 예술분야에서 종사하는 주 활동](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028104&conn_path=I2  )<br>
 >[문화체육관광부,「국민여가활동조사」, 2021, 2023.04.27, 여가활동의 주된 목적](https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1026924&conn_path=I2  )<br>
->[한국여성정책연구원,「혼인상태별 인구(성/연령별)」] (https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2  )   <br>
+>[한국여성정책연구원,「혼인상태별 인구(성/연령별)」](https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2  )   <br>
 >[한국여성정책연구원, 혼인상태별 인구(성/연령별)](https://gsis.kwdi.re.kr/statHtml/statHtml.do?orgId=338&tblId=DT_1IN0508&conn_path=I2)<br>
 >[서울특별시, 서울시 보육통계 보육교사 1인당 아동수 현황 정보](http://data.seoul.go.kr/dataList/OA-15456/S/1/datasetView.do)<br>
 >[서울특별시, 서울시 합계출산율 및 모(母)의 연령별 출산율 통계](http://data.seoul.go.kr/dataList/10104/S/2/datasetView.do)<br>
