@@ -48,18 +48,6 @@
 >백엔드<br>
 >DB설계<br>
 
-#### `정구열`
->이메일: yeol512@nate.com<br>
->깃헙: https://github.com/zzang910/<br>
->프런트엔드<br>
->화면설계<br>
-
-#### `한태성`
->이메일: hantaeseong4@naver.com<br>
->깃헙: https://github.com/hantaeseong00/<br>
->팀장<br>
->총괄<br>
-
 ---
 
 ## 2. Development Environment & Utilized Skils
@@ -157,24 +145,24 @@ _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 
 >기술 스택:  
 >Python
 >  
->[1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate) 참고   
->[1.1. Consumer Price Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/1.%20Consumer%20Price%20Analysis) 참고   
->[1.2. Government Policies Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/2.%20Government%20Policies%20Analysis) 참고  
->[1.3. Election Promises Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/3.%20Election%20Promises%20Analysis) 참고   
->[1.4. Leisure Lifestyle Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/4.%20Leisure%20Lifestyle%20Analysis) 참고   
->[1.5. Occupations Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/5.%20Occupations%20Analysis) 참고  
+>[1. Suggest Ambassadors for Ferility Rate](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate) 참고   
+>[1.1. Consumer Price Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/1.%20Consumer%20Price%20Analysis) 참고   
+>[1.2. Government Policies Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/2.%20Government%20Policies%20Analysis) 참고  
+>[1.3. Election Promises Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/3.%20Election%20Promises%20Analysis) 참고   
+>[1.4. Leisure Lifestyle Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/4.%20Leisure%20Lifestyle%20Analysis) 참고   
+>[1.5. Occupations Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate/5.%20Occupations%20Analysis) 참고  
 >   
->[2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage) 참고   
->[2.1. Assets Liabilities Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/1.%20Assets%20Liabilities%20Analysis) 참고   
->[2.2. Married Unmarried Status Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/2.%20Married%20Unmarried%20Status%20Analysis) 참고   
->[2.3. Quarterly Analysis](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/3.%20Quarterly%20Analysis) 참고  
+>[2. Launched Loan Products for Marriage](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage) 참고   
+>[2.1. Assets Liabilities Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/1.%20Assets%20Liabilities%20Analysis) 참고   
+>[2.2. Married Unmarried Status Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/2.%20Married%20Unmarried%20Status%20Analysis) 참고   
+>[2.3. Quarterly Analysis](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage/3.%20Quarterly%20Analysis) 참고  
 
 ---
 
-### [5.1. Suggest Ambassadors for Ferility Rate](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate)
+### [5.1. Suggest Ambassadors for Ferility Rate](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/1.%20Suggest%20Ambassadors%20for%20Ferility%20Rate)
 
 #### `Consumer Price Analysis`
-![](https://github.com/hantaeseong00/Team1_FirstProject/blob/main/Source%20Code/1.%20Image%20Classification/Graph/result.png?raw=true)<br>
+![](https://github.com/JunaHwang/Team1_FirstProject/blob/main/Source%20Code/1.%20Image%20Classification/Graph/result.png?raw=true)<br>
 
 >프로젝트는 합계출산율의 증감과 소비자물가의 증감 간의 상관분석을 진행하였습니다.<br>
 >소비자물가 항목 중 유아용품 및 육아시설에 대한 상관분석을 수행하고, 후진제거법을 통해 Feature를 줄였습니다.<br>
@@ -228,7 +216,7 @@ _김은정 외 6인,『저출산ㆍ고령사회 대응 국민 인식 및 욕구 
 
 ---
 
-### [5.2. Launched Loan Products for Marriage](https://github.com/hantaeseong00/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage)
+### [5.2. Launched Loan Products for Marriage](https://github.com/JunaHwang/Team1_FirstProject/tree/main/Source%20Code/2.%20Launched%20Loan%20Products%20for%20Marriage)
 
 #### `Assets Liabilities Analysis`
 
